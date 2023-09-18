@@ -1,0 +1,4 @@
+#ignroe node modules
+node_modules
+#iignore package-lock.json
+package-lock.json
